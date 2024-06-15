@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sri.lokesh@colostate.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -42,14 +42,15 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=RKNBZc0AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mass Spectrometry
+  - Redox Chemistry
+  - Black Carbon
+  - Wildfire Chemistry
 
 education:
   - area: PhD Civil and Environmental Engineering 
@@ -128,10 +129,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Kannada
+    percent: 100
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
