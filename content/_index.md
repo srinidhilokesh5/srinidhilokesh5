@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research pursuits have been centered around distinct themes. At the University of Nevada, Reno, I focused on exploring the efficacy of aqueous phase biochar for dehalogenating organic contaminants. Additionally, I delved into the behavior of a novel toxic compound, 6PPD-quinone, at the asphalt-water interface. During my doctoral studies, I developed a strong interest for high-resolution mass spectrometric analysis techniques. Using these techniques I worked on identifying ligands capable of binding with Fe derived from degraded lignin, as well as quinone-containing molecules in aqueous biochar.
+        
+        Upon transitioning to Colorado State University for my postdoctoral tenure, my current focus is investigating pollutants released from structural fires. My work involves employing both targeted and non-targeted high-resolution mass spectrometric analyses to identify and quantify these pollutants. This research seeks to shed light on the complex chemical landscape arising from such incidents.
         
         Please reach out to collaborate 😃
     design:
