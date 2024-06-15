@@ -61,6 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+
   - area: MS Civil and Environmentl Engineering
     institution: New York University
     date_start: 2016-01-15
@@ -166,4 +167,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born in Bangalore, India, and completed my Bachelor of Technology in mining engineering from the National Institute of Technology, Karnataka. Subsequently, I pursued a Master of Science degree in environmental engineering from New York University. During my time there, I worked with Dr. Andrea Silverman, an experience that marked my introduction to laboratory work. My fascination with environmental chemistry deepened as I grew to understand the gravity of ongoing environmental challenges. This led me to towards a Ph.D. in environmental engineering under the guidance of Dr. Yu (Frank) Yang at the University of Nevada, Reno. During a seminar I was introduced to Dr. Thomas Borch, whose impactful research at Colorado State University resonated with me. When a post-doctoral opportunity arose in his laboratory, I jumped on it.
