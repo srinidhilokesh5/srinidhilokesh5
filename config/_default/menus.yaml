@@ -4,8 +4,8 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
+  - name: About
+    url: /About
     weight: 10
   - name: Publications
     url: /#papers
@@ -22,6 +22,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: CV
+    url: uploads/Srinidhi Lokesh_CV_2023.pdf
     weight: 40
