@@ -2,16 +2,10 @@
 # Display name
 title: Dr. Srinidhi Lokesh
 
-# Name pronunciation (optional)
-name_pronunciation:
-
 # Full name (for SEO)
 first_name: Srinidhi
 last_name: Lokesh
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
