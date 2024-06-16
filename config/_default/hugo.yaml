@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Srinidhi Lokesh
+title: Dr. Srinidhi Lokesh
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://srinidhilokesh5.io/'
 
 ############################
 ## LANGUAGE
@@ -16,6 +16,22 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+
+############################
+## PAGES
+############################
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    pager: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: true
 
 ############################
 ## ADVANCED
@@ -45,11 +61,21 @@ taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
+  categories: categories
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep
