@@ -5,10 +5,10 @@
 
 main:
   - name: About
-    url: About Me/
+    url: About me/
     weight: 10
   - name: Publications
-    url: /#papers
+    url: Publications/
     weight: 11
   - name: Talks
     url: /#talks
