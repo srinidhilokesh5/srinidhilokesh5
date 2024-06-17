@@ -14,11 +14,5 @@ sections:
         date: "2023-05-01"
         url: "https://example.com/understanding-ai"
     
-    -block: markdown
-    id: section-2
-        title: "Machine Learning Advances"
-        authors: "Alice Johnson, Bob Brown"
-        journal: "International Journal of ML"
-        date: "2022-10-15"
-        url: "https://example.com/machine-learning-advances"
+
 ---
