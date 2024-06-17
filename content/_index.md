@@ -49,6 +49,7 @@ sections:
       filters:
         folders:
           - publication
+            - conference-paper
         featured_only: true
     design:
       view: article-grid
@@ -60,7 +61,6 @@ sections:
       filters:
         folders:
           - publication
-            - conference-paper
         exclude_featured: false
     design:
       view: citation
