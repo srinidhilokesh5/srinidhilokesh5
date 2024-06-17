@@ -5,7 +5,6 @@ title: Publications
 type: landing
 
 sections:
-    publications:
     -block: markdown
     id: section-1
     content:
@@ -14,6 +13,7 @@ sections:
         journal: "Journal of AI Research"
         date: "2023-05-01"
         url: "https://example.com/understanding-ai"
+    
     -block: markdown
     id: section-2
         title: "Machine Learning Advances"
