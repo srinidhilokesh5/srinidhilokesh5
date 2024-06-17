@@ -6,8 +6,9 @@ title: 'Critical Role of Semiquinones in Reductive Dehalogenation'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yu Yang
-  - Abrar
+  - Myron L. Lard
+  - Dr. Robert L. Cook
+  - Dr. Yu Yang
 
 # Author notes (optional)
 #author_notes:
