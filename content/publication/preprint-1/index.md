@@ -7,7 +7,7 @@ title: 'Quantification of quinones in environmental media by chemical tagging wi
 authors:
   - admin
   - Anil Timilsina
-  - Abrar Shahriar  
+  - Dr. Abrar Shahriar  
   - Travis Numan
   - Dr. Yu Yang
 
