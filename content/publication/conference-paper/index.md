@@ -14,8 +14,8 @@ authors:
  # - 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2033-09-05T00:00:00Z'
-doi: ''
+date: '2023-09-05T00:00:00Z'
+doi: '10.1021/acs.est.3c03981'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,10 +26,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: American Chemical Society
+publication_short: Environmental Science & Technology
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Quinones and products of their redox reactions(hydroquinones and semiquinones) have been suggested as importantplayers in the reductive dehalogenation of organohalogens mediated bynatural and pyrogenic organic matter, although based on limited directevidence. This study focused on the reductive dehalogenation of amodel organohalogen (triclosan) by 1,4-benzohydroquinone (H2Q).In the presence of H2Q only, degradation of triclosan does not occurwithin the experimental period (up to 288 h); however, it takes place inthe presence of H2Q and FeCl3 under anoxic conditions at pH 5 and 7(above the pKa of SQ = 4.1) only to be halted in the presence ofdissolved oxygen. Kinetic simulation and thermodynamic calculationsindicated that benzosemiquinone (SQ−) is responsible for thereductive degradation of triclosan, with the fitted rate constant forthe reaction between SQ− and triclosan being 317 M−2 h−1. The critical role of semiquinones in reductive dehalogenation can berelevant to a wide range of quinones in natural and engineering systems based on the reported oxidation−reduction potentials ofquinones/semiquinones and semiquinones/hydroquinones and supported by experiments with additional model hydroquinones.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
