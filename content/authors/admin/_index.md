@@ -85,7 +85,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: code-bracket
@@ -114,13 +114,13 @@ skills:
         #percent: 80
         #icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Kannada
-    percent: 100
-  - name: Hindi
-    percent: 75
+#languages:
+ # - name: English
+  #  percent: 100
+  #- name: Kannada
+   # percent: 100
+  #- name: Hindi
+   # percent: 75
 
   
 # Awards.
