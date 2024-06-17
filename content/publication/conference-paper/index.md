@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: American Chemical Society
+publication: ACS Environmental Science & Technology
 publication_short: Environmental Science & Technology
 
 abstract: Quinones and products of their redox reactions(hydroquinones and semiquinones) have been suggested as importantplayers in the reductive dehalogenation of organohalogens mediated bynatural and pyrogenic organic matter, although based on limited directevidence. This study focused on the reductive dehalogenation of amodel organohalogen (triclosan) by 1,4-benzohydroquinone (H2Q).In the presence of H2Q only, degradation of triclosan does not occurwithin the experimental period (up to 288 h); however, it takes place inthe presence of H2Q and FeCl3 under anoxic conditions at pH 5 and 7(above the pKa of SQ = 4.1) only to be halted in the presence ofdissolved oxygen. Kinetic simulation and thermodynamic calculationsindicated that benzosemiquinone (SQ−) is responsible for thereductive degradation of triclosan, with the fitted rate constant forthe reaction between SQ− and triclosan being 317 M−2 h−1. The critical role of semiquinones in reductive dehalogenation can berelevant to a wide range of quinones in natural and engineering systems based on the reported oxidation−reduction potentials ofquinones/semiquinones and semiquinones/hydroquinones and supported by experiments with additional model hydroquinones.
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+#url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
