@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: About me/
+    url: about me/
     weight: 10
   - name: Publications
     url: Publications/
