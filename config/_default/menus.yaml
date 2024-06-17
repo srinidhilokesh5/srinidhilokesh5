@@ -25,3 +25,6 @@ main:
   - name: CV
     url: uploads/Srinidhi Lokesh_CV_2023.pdf
     weight: 40
+  -name: Research
+    url: research/
+    weight: 50
