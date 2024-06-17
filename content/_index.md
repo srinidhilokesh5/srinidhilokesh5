@@ -60,6 +60,7 @@ sections:
       filters:
         folders:
           - publication
+            - conference-paper
         exclude_featured: false
     design:
       view: citation
