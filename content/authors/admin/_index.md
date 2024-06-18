@@ -157,5 +157,4 @@ skills:
 
 ## About me
 
-I was born in Bangalore, India, and completed my Bachelor of Technology in mining engineering from the National Institute of Technology, Karnataka. Subsequently, I pursued a Master of Science degree in environmental engineering from New York University. During my time there, I worked with Dr. Andrea Silverman, an experience that marked my introduction to laboratory work. My fascination with environmental chemistry deepened as I grew to understand the gravity of ongoing environmental challenges. This led me to towards a Ph.D. in environmental engineering under the guidance of Dr. Yu (Frank) Yang at the University of Nevada, Reno. During a seminar I was introduced to Dr. Thomas Borch, whose impactful research at Colorado State University resonated with me. When a post-doctoral opportunity arose in his laboratory, I jumped on it.
-
+Welcome to my academic website! I'm Dr. Srinidhi, a postdoctoral candidate specializing in mass spectrometry for identifying environmental pollutants and unraveling biogeochemical cycles, seeking an academic position to advance research and education in this field.
