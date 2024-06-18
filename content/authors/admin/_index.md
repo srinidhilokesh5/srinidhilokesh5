@@ -28,7 +28,7 @@ profiles:
     url: 'mailto:sri.lokesh@colostate.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/srinidhilokesh
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -53,7 +53,7 @@ education:
       Thesis: Reductive dehalogenation by aqueous biochar 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.proquest.com/openview/8c24b6efa5e0503a8b1482cf257ada12/1?pq-origsite=gscholar&cbl=18750&diss=y'
 
   - area: MS Civil and Environmentl Engineering
     institution: New York University
