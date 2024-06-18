@@ -5,9 +5,9 @@
 
 # Appearance
 theme_day: minimal
-day_night: true
-font: ''
-font_size: L
+theme_night: minimal
+font: 'minimal'
+font_size: XL
 
 # SEO
 marketing:
