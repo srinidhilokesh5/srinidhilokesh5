@@ -6,8 +6,8 @@
 # Appearance
 color_theme: Ocean
 day_night: true
-font: 'Minimal'
-font_size: xl
+font: ''
+font_size: XL
 
 # SEO
 marketing:
