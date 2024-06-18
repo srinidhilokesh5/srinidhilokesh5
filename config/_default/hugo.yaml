@@ -37,10 +37,9 @@ outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
-  bgColor: '#ffffff'
-  hint: photo
+  resampleFilter: lanczos
   quality: 75
-  resampleFilter: box
+  anchor: smart
 timeout: 600000
 taxonomies:
   author: authors
