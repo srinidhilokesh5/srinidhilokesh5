@@ -48,7 +48,8 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publication/
+            - conference-paper
         featured_only: true
     design:
       view: article-grid
